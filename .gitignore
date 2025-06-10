@@ -1,0 +1,110 @@
+# PowerShell specific
+*.ps1xml
+*.psd1
+*.psm1
+*_profile.ps1
+
+# Certificates and sensitive files
+*.pfx
+*.p12
+*.cer
+*.crt
+*.key
+*.pem
+
+# Secrets and configuration files
+*.secret
+*.config
+appsettings.json
+*secrets.json
+
+# Output files and reports
+*.csv
+*.xlsx
+*.log
+Reports/
+Output/
+Logs/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux specific
+*~
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Python (if any)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Personal notes and documentation drafts
+notes.md
+draft*.md
+personal/
+private/
