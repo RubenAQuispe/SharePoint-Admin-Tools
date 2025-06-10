@@ -17,7 +17,7 @@ A comprehensive collection of PowerShell scripts for SharePoint Online and OneDr
 ### Installation
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/YOUR-USERNAME/SharePoint-Admin-Tools.git
+   git clone https://github.com/RubenAQuispe/SharePoint-Admin-Tools.git
    cd SharePoint-Admin-Tools
    ```
 
@@ -150,8 +150,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - 📖 **Documentation**: Check the `docs/` folder for detailed guides
-- 🐛 **Issues**: Report bugs via [GitHub Issues](https://github.com/YOUR-USERNAME/SharePoint-Admin-Tools/issues)
-- 💬 **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/YOUR-USERNAME/SharePoint-Admin-Tools/discussions)
+- 🐛 **Issues**: Report bugs via [GitHub Issues](https://github.com/RubenAQuispe/SharePoint-Admin-Tools/issues)
+- 💬 **Discussions**: Join the conversation in [GitHub Discussions](https://github.com/RubenAQuispe/SharePoint-Admin-Tools/discussions)
 
 ## 🔗 Useful Resources
 

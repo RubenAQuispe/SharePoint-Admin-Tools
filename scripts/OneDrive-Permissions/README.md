@@ -227,7 +227,7 @@ The script requires these Microsoft Graph permissions:
 
 ## 🤝 Contributing
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/YOUR-USERNAME/SharePoint-Admin-Tools/issues) or submit a pull request!
+Found a bug or have a feature request? Please [open an issue](https://github.com/RubenAQuispe/SharePoint-Admin-Tools/issues) or submit a pull request!
 
 ## 📄 License
 
